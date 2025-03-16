@@ -95,10 +95,3 @@ mvn azure-webapp:deploy
 - 📖 [Azure CLI Docs](https://learn.microsoft.com/pt-br/cli/azure/install-azure-cli)
 
 ---
-
-## 👨‍💻 **Autor**
-Projeto desenvolvido por **[Seu Nome]**, para a disciplina de **Computação em Nuvem - FIAP**. 🚀  
-
-Se precisar de suporte, entre em contato! 😊  
-
----
