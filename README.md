@@ -1,10 +1,19 @@
-Aqui está um modelo de **README.md** em **Markdown** para o seu projeto no GitHub, incluindo as instruções para **deploy na Azure** e testes do CRUD.  
-
----
 
 ## 🚀 **OdontovisionMVC - Aplicação Java MVC na Azure**
 ### 📌 **Descrição**
-Este projeto é uma aplicação **Java MVC** desenvolvida com **Spring Boot**, conectada ao banco de dados **Oracle** na **Azure**. O objetivo é realizar um **CRUD** entre entidades relacionadas.
+Este projeto é uma aplicação **Java MVC** desenvolvida com **Spring Boot**, conectada ao banco de dados **Oracle** na **Azure**. O objetivo é realizar cadastro de dentistas e pacientes (usuarios), para isso foi criado uma view em Thymeleaft para que o administrador do sistema possa fazer a gestão. 
+
+## 👥 Equipe
+
+| Matrícula  | Nome                              |
+|------------|-----------------------------------|
+| **553568** | Sabrina da Motta Café            |
+| **552692** | Luís Henrique Oliveira Da Silva  |
+| **554199** | Matheus Duarte Oliveira          |
+
+---
+### 🔹 Diagrama UML - Banco de Dados Oracle
+![image](https://github.com/user-attachments/assets/daaa962b-1f60-4ff7-9032-073ad48727ae)
 
 ---
 
