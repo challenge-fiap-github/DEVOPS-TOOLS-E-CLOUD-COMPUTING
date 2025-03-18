@@ -1,7 +1,9 @@
 
 ## 🚀 **OdontovisionMVC - Aplicação Java MVC na Azure**
 ### 📌 **Descrição**
-Este projeto é uma aplicação **Java MVC** desenvolvida com **Spring Boot**, conectada ao banco de dados **Oracle** na **Azure**. O objetivo é realizar cadastro de dentistas e pacientes (usuarios), para isso foi criado uma view em Thymeleaft para que o administrador do sistema possa fazer a gestão. 
+Este projeto é uma aplicação **Java MVC** desenvolvida com **Spring Boot**, conectada ao banco de dados **Oracle** na **Azure**. O objetivo é realizar cadastro de dentistas e pacientes (usuarios), para isso foi criado uma view em Thymeleaft para que o administrador do sistema possa fazer a gestão.
+
+#### Link do repositório: https://github.com/challenge-fiap-github/Java-Advanced-MVC 
 
 ## 👥 Equipe
 
